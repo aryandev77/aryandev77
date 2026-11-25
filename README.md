@@ -1,8 +1,8 @@
-<!-- Put this file in a repo named EXACTLY: aryandev77/aryandev77 (Public, with README.md) -->
+m<!-- Put this file in a repo named EXACTLY: aryandev77/aryandev77 (Public, with README.md) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=190&section=header&text=aryan&fontColor=e6edf3&fontSize=64&fontAlignY=40&desc=builder%20%C2%B7%20storyteller%20%C2%B7%20cinephile&descSize=16&descColor=8b949e&descAlignY=62" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=190&section=header&text=Aryan&fontColor=e6edf3&fontSize=64&fontAlignY=40&desc=builder%20%C2%B7%20storyteller%20%C2%B7%20cinephile&descSize=16&descColor=8b949e&descAlignY=62" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Student+today.+Engineer+loading...;Ship+small.+Ship+often.;Every+bug+is+a+plot+twist." alt="typing" />
 
@@ -60,7 +60,6 @@ Films that shaped how I think about building things.
 |---|---|
 | **Se7en** | Details decide everything. Patience beats speed. |
 | **Shutter Island** | Question your own assumptions. Best debugging mindset there is. |
-| **Dr. Doom** | Own the whole stack. Build it yourself. |
 | **Memento** | State management is hard. |
 | **Interstellar** | Time is the only real constraint. |
 | **Whiplash** | Craft needs obsession. |
